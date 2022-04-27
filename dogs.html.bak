@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Хризантема </title>
+    <meta name="keywords" content="совершенный код, Стив Макконел, паттерны, книги, программирование, литература, обучение, разработка">
+    <meta name="description" content="Книга \"совершенный код\" Стива Макконела  - лучшая книга для программистов по результатам опроса пользователей StackOverflow">
+</head>
+<body>
+<a href="index.html">Вернуться на главную</a>
+<h1><a href="dogs.html">Хризантема</h1></a>
+<h2><a href="vid.html">Виды цветов</h2></a>
+<h3>От издателя_Мороз Татьяны </h3>
+<p>Some flowers produce diaspores without fertilization (parthenocarpy). Flowers contain sporangia and are the site where gametophytes develop. Many flowers have evolved to be attractive to animals, so as to cause them to be vectors for the transfer of pollen. After fertilization, the ovary of the flower develops into fruit containing seeds.
+
+In addition to facilitating the reproduction of flowering plants, flowers have long been admired and used by humans to bring beauty to their environment, and also as objects of romance, ritual, esotericism, witchcraft, religion, medicine, and as a source of food.
+
+<img src="http://jpuzz.ru/public/8443/1213485126%F0%EE%E7%FB.JPG" width=980px style="margin:30px 0 0 -610px; position:absolute; border-radius:20px">
+</body>
+</html>
